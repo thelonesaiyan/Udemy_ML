@@ -17,3 +17,5 @@ In this module I learned importing modules, datasets, search and resolve missing
 ## 3. Classification
   ### 3.1 Logistic Regression
   In this module I learned about the first classification model i.e. Logistic regression and how the sigmoid function works. I also learned the idea of confusion matrix and accuracy score
+  ### 3.2 KNN Classifier
+  In this I learned about the KNN and how it works, it finds the n nearest neighbours to the given value and the group having most neighbors in the groups is taken as the value for the given data. It's so simple and easy approach. Also I calculated the accuracy and confusion matrix for the same and it has more accuracy and better matrix result than the Logistic Regression.

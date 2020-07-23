@@ -19,3 +19,5 @@ In this module I learned importing modules, datasets, search and resolve missing
   In this module I learned about the first classification model i.e. Logistic regression and how the sigmoid function works. I also learned the idea of confusion matrix and accuracy score
   ### 3.2 KNN Classifier
   In this I learned about the KNN and how it works, it finds the n nearest neighbours to the given value and the group having most neighbors in the groups is taken as the value for the given data. It's so simple and easy approach. Also I calculated the accuracy and confusion matrix for the same and it has more accuracy and better matrix result than the Logistic Regression.
+  ### 3.3 SVM (Support Vector Machine)
+  In this I learned about the famous SVM's and their working. SVM's are the rebelious type of algorithm i.e. it is very different from other algos, it selects and finds the most extereme cases of classes and takes these points as support vectors for builing the model. In fact these points help SVM's to predict better results than any other algos sometimes.

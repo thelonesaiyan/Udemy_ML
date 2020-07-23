@@ -14,3 +14,6 @@ In this module I learned importing modules, datasets, search and resolve missing
   In this I learned about the Decision Tree regressor and how it splits the data features and then uses the avg. mean of dependent variable to find the solution. It wirks just like tree it has a root represents the splits and leaf nodes as the results of those splits. It is used for higher degree of features not a best model for single independent feature dataset. There is no need for feature scaling in it.
   ### 2.6 Random Forest Regressor
   In this module I learned about the Random Forest Regressor. it is the combination of n number of Decision Trees making it a collection of various Decision Trees and it predicts the result out of all those trees and average theose results to predict the final outcome. It is the part of ensemble module of slearn which means the collection of different algorithms into one and make an algorithm more efficient than the original one.
+## 3. Classification
+  ### 3.1 Logistic Regression
+  In this module I learned about the first classification model i.e. Logistic regression and how the sigmoid function works. I also learned the idea of confusion matrix.

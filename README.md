@@ -7,3 +7,5 @@ In this module I used the Data Preprocessing techniques along with Simple Linear
 In this module I learned about various multiple linear regression terms like Backward Elimination, Forward elimination , Bi-directionla elimination and applies the Linear regression module to train my model.
 ## 4. Polynomial Linear Regression
 In this module I learned about polynomail linear regression and why its is linear expect the fact that it is non-linear regression technique. It is linear in terms of parammeters.
+## 5. Support Vector Regressor
+In this I learned about the SVR and its different kernals like 'rbf', 'poly', 'linear', etc. It is the first true non-linear regressor. Unlike other regressor that uses a single line it uses a box full of different lines to calculate the prediction. It doesn't work well with outliers but it trains the model more perfectly.
